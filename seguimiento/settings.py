@@ -54,7 +54,8 @@ ROOT_URLCONF = 'seguimiento.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        # 'DIRS': ['ubicacion1', 'ubicacion2', 'ubicacion3'],
+        'DIRS': [r'C:\proyecto_python\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
