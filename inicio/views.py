@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def inicio(request):
-    return HttpResponse("Hola soy el proyecto") 
+    return HttpResponse("<h1>Hola soy el proyecto</h1>") 
