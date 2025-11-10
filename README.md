@@ -15,7 +15,7 @@ CÓMO EJECUTAR EL PROYECTO
 
 - Ver base de datos → Comprobar en el panel de administración (/admin) que los datos se guardaron bien.
 
-Dónde están las funcionalidades
+DÓNDE ESTÁN LAS FUNCIONALIDADES
 
 - Las vistas están en inicio/views.py.
 
