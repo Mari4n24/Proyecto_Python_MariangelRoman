@@ -1,9 +1,11 @@
-# Colectividades
+# COLECTIVIDADES
 
-Descripción
-    Esta aplicación fue creada para registrar las Colectividades que participan en el evento anual que se realiza en noviembre en Argentina.
-    
-    Permite anotar cada país, guardar su información y visualizarla fácilmente desde la web.
+DESCRIPCIÓN
+
+Esta aplicación fue creada para registrar las Colectividades que participan en el evento anual que se realiza en noviembre en Argentina.
+Permite anotar cada país, guardar su información y visualizarla fácilmente desde la web.
+
+CÓMO EJECUTAR EL PROYECTO
 
 - Inicio → Entrar a la página principal (/inicio) para verificar que carga correctamente.
 
